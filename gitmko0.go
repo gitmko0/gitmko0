@@ -1,7 +1,7 @@
 package gitmko0
 
 import (
-     time
+     "time"
 )
 
 func GetTimeInSeconds() uint64 {
