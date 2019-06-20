@@ -1,3 +1,5 @@
+https://mrotaru.wordpress.com/2015/05/20/how-migratorydata-solved-the-c10m-problem-10-million-concurrent-connections-on-a-single-commodity-server/
+
 Building Scalable Real-Time Internet Technology
 Skip to content
 HOMEDISCLAIMER
